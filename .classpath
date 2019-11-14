@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/assertj-core-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/bsf-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/c3p0-0.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cglib-full-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-chain-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/commons-validator-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cucumber-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cucumber-expressions-5.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cucumber-java-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cucumber-junit-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/cucumber-testng-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/datatable-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/datatable-dependencies-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/dom4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/leadapp.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/MyMavenProject-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/mysql-connector-java-3.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/struts-core-1.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/struts-extras-1.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/struts-scripting-1.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/struts-taglib-1.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/struts-tiles-1.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Jar Files/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
